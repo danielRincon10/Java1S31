@@ -19,6 +19,8 @@ public class Main {
         
         System.out.println("Hola tripulantes de la Misión TIC 2022");
         System.out.println("Hola Kelly!!!");
+        System.out.println("Hola Profe");
+        System.out.println("Ya casi es NAVIDAD");
     }
     
 }
