@@ -23,6 +23,11 @@ public class Main {
         
         System.out.println("Vamos a cargar a la rama test ");
         System.out.println("Mision Tic 2022");
+        
+        int numero1 = 10; 
+        int numero2 = 15; 
+        int suma = 10 + 15; 
+        
     }
     
 }
