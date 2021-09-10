@@ -28,6 +28,8 @@ public class Main {
         int numero2 = 15; 
         int suma = 10 + 15; 
         
+        System.out.println("Entendido el cambio entre ramas!");
+        
     }
     
 }
