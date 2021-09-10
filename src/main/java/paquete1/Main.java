@@ -18,11 +18,11 @@ public class Main {
         // TODO code application logic here
         
         System.out.println("Hola tripulantes de la Misión TIC 2022");
-        System.out.println("Hola Kelly!!!");
+        System.out.println("Hola Tatiana!!!");
         System.out.println("Hola Profe");
-        System.out.println("Ya casi es NAVIDAD");
         
         System.out.println("Vamos a cargar a la rama test ");
+        System.out.println("Mision Tic 2022");
     }
     
 }
